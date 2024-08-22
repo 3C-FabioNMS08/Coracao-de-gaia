@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: #3d9e10;
+    font-family: "Qwitcher Grypen", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #12a31e;
+    color: rgb(12, 138, 160);
+    font-family: "Qwitcher Grypen", cursive;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 80%;
+}
