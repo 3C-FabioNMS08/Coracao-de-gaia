@@ -1,7 +1,7 @@
 body {
-    background-color: black;
-    color: #3d9e10;
-    font-family: "Qwitcher Grypen", cursive;
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,9 +10,9 @@ body {
 }
 
 button {
-    background-color: #12a31e;
-    color: rgb(12, 138, 160);
-    font-family: "Qwitcher Grypen", cursive;
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
 }
 
 .passo {
@@ -29,5 +29,5 @@ main {
 }
 
 img {
-    max-width: 80%;
+    max-width: 90%;
 }
